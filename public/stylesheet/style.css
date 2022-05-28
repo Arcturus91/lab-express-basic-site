@@ -1,0 +1,11 @@
+body{
+    color:peru;
+    background-color:rgb(164, 191, 164);
+    
+
+}
+
+.images{
+    display:flex;
+    flex-direction:row;
+}
